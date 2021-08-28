@@ -1,0 +1,1 @@
+# mfe-craco-modulefederation
